@@ -1,38 +1,65 @@
-title: "Data z mobilů:<br>Praha se denně nafoukne o polovinu, v centru jsou návštěvníci v převaze"
-perex: "Skoro 140 tisíc lidí přijede do Prahy každý den za prací. Míří hlavně do kancelářských budov a do centra města. S nimi pak dorazí i přes půl milionu návštěvníků. Ukázala to analýza dat o pohybu mobilních telefonů, kterou si nyní město nechává zpracovat."
+title: "Data: 11,5 miliardy na železnice i komise pro koordinaci inovací za 9 milionů. Jaké projekty skrývá plán obnovy?"
+perex: "Téměř 200 evropských miliard, které mají do Česka přitéct v následujících pěti letech, vláda rozepsala do 123 projektů. Datoví novináři prošli jeden po druhém a pokusili se z veřejných dokumentů popsat, na co peníze skutečně půjdou."
 coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
 coverimg_note: "Foto <a href='https://ctk.cz'>ČTK</a>"
 styles: []
 libraries: [] #jquery, d3, highcharts, datatables
 options: [noheader] #wide, noheader (, nopic)
 ---
-<left>
-	<p>
-	<b>KAREL HYNEK MÁCHA</b>
-	</p><p>
-	Karel Hynek Mácha (16. listopadu 1810 Praha-Malá Strana[1] – 6. listopadu 1836 Litoměřice[2]) byl český básník a prozaik, představitel českého romantismu a zakladatel moderní české poezie. Proslavil se jak svým životem, tak dílem, jemuž dominuje Máj (1836).
-	</p>
-</left>
+VIZUALIZACE CELEK
 
-Během dne se lidé v Praze soustřeďují v okolí administrativních center a obchodů, po poledni se tak nejvíc zahustí okolí Andělu, centrum Prahy (Vodičkova ulice a Petrské náměstí) a Brumlovka nedaleko Budějovické. Na poslední jmenované adrese sídlí řada velkých korporací, mezi nimi i Microsoft nebo ČEZ. Pro srovnání, na zmíněných místech je ve "špičce" okolo šesti stovek osob na jeden hektar, průměr Prahy je 25 obyvatel na [hektar](https://cs.wikipedia.org/wiki/Hektar) (Václavské náměstí má rozlohu asi 4 hektary).
+Devět měsíců se na českých ministerstvech rodil _[národní plán obnovy](https://www.planobnovycr.cz/)_: dokument, který popisuje, jak si Češi rozdělí necelých 200 miliard z Evropské unie. Po jednání s Evropskou komisí v polovině května je vláda přesvědčena, že jde o finální verzi, kterou unie posvětí. [Navzdory námitkám ekologů](https://www.irozhlas.cz/zpravy-domov/200-miliard-v-ohrozeni-narodni-plan-obnovy-je-nedotazeny-eu-ho-nemusi-schvalit_2105240010_ban), že povinných 37 procent peněz pro klimatické projekty český plán splňuje jen naoko, a [řadě](https://www.irozhlas.cz/komentare/cesko-evropska-unie-narodni-plan-obnovy_2105031840_miz) [dalších](https://www.irozhlas.cz/ekonomika/narodni-plan-obnovy-2021-mpo-vlada-ekologie_2105181957_ako) [kritických](https://www.irozhlas.cz/komentare/komentar-lidy-rakusanove-unijni-plan-obnovy_2005291343_ada) [analýz](https://nazory.aktualne.cz/komentare/narodni-plan-marnosti-chteli-jsme-modernizovat-ale-dopadlo-t/r~03f011c4b73211eb9f15ac1f6b220ee8/).
 
-Naopak v noci se nejvíc lidí se "namačká" ve Vršovicích, jde o 430 osob na hektar.
+Cílem evropského balíku je nastartovat pandemií poškozené ekonomiky členských zemí. Podpořit chce hlavně projekty snižování klimatické zátěže a adaptace na klimatické změny, ty musejí získat zmíněných 37 procent evropských peněz. Další prioritou je digitální ekonomika s kvótou 20 procent celkové částky.
 
-Detaily si můžete prohlédnout v následující mapě, kterou z dat mobilních operátorů zpracoval pražský [Institut plánování a rozvoje](http://www.iprpraha.cz/).
+Datoví novináři serveru iROZHLAS.cz ve [veřejně dostupných zdrojích]() prošli všech 123 projektů, rozdělených do šesti tematických pilířů, aby je mohli lépe popsat. V následujícím textu najdete pro každý z pilířů grafické shrnutí se zvýrazněním nejdražších projektů a podrobný seznam projektů včetně „lidského“ popisu, co se pod často obecným či kryptickým názvem skrývá.
 
-<wide><i>Pokud vás zajímá, "kolik" lidí bývá ve dne a v noci ve vaší čtvrti, najděte si ji na mapě, přepněte se na časové řezy, vyberte přepínač hustota osob a potom pohybujte "posuvníkem" nahoře.</i></wide>
+Počty uváděných projektů se mohou lišit od oficiálních zdrojů. Důvodů je několik: část veřejných dokumentů obsahuje projekty s nulovou částkou, jiné nikoliv. Různé dokumenty také projekty spojují či rozdělují podle jiných pravidel. Třetím zdrojem nepřesností je fakt, že vládní dokumenty si na mnoha místech vzájemně odporují; typicky se mezi dokumenty liší počet žadatelů o dotace, kteří mají být z projektu podpořeni. Částka, alokovaná pro celý balík – 199,8 miliardy – i částky pro každý pilíř se nicméně napříč dokumenty i v naší analýze shodují. 
 
-## Data na prodej
-<right>
-	<p>
-	<b>KAREL HYNEK MÁCHA</b>
-	</p><p>
-	Karel Hynek Mácha (16. listopadu 1810 Praha-Malá Strana[1] – 6. listopadu 1836 Litoměřice[2]) byl český básník a prozaik, představitel českého romantismu a zakladatel moderní české poezie. Proslavil se jak svým životem, tak dílem, jemuž dominuje Máj (1836).
-	</p>
-</right>
+Před detailním pohledem na jednotlivé pilíře se ještě podívejte, kdy mají peníze do které kapitoly přitéct.
 
-I pokud netelefonujeme nebo neposíláme SMS, telefon pravidelně komunikuje s vysílači v síti mobilního operátora. Z dat o síle signálu a použité anténě je možné odvodit, kde se přibližně telefon nachází a jak dlouhou dobu na místě strávil.
+GRAF PENÍZE × PILÍŘ + ROK 
 
-Mobilní operátor má ["zákonnou povinnost"](https://www.zakonyprolidi.cz/cs/2005-127/zneni-20160919#p97-3) takové informace uchovávat, a to půl roku do minulosti, přistupovat k nim ale mohou jen bezpečnostní složky, typicky policie nebo rozvědka.
+## Pilíře národního plánu obnovy 
 
-Operátoři ale obdobné informace mohou anonymizovat (tedy "zbavit" identifikace konkrétního uživatele) a agregovat, tedy spojit informace o jednotlivcích do jakýchsi skupin. Výsledná obecná čísla pak přeprodávají dál, například marketingovým firmám či dopravním analytikům. Zpětně z nich nejde dovodit, kde se pohybuje každý jednotlivec, dávají ale určitý přehled o obecném chování obyvatel nějakého místa.
+### Pilíř 1: Digitální transformace  
+41 projektů za 28,2 miliardy korun
+
+GRAF
+
+TABULKA
+
+### Pilíř 2: Fyzická infrastruktura a zelená tranzice 
+38 projektů za 90,7 miliardy korun
+
+GRAF
+
+TABULKA
+
+### Pilíř 3: Vzdělávání a trh práce
+11 projektů za 41 miliard korun
+
+GRAF
+
+TABULKA
+
+### Pilíř 4: Instituce a regulace a podpora podnikání v reakci na COVID-19 
+17 projektů za 11,7 miliard korun
+
+GRAF
+
+TABULKA
+
+### Pilíř 5: Výzkum, vývoj a inovace 
+8 projektů za 13,2 miliardy korun
+
+GRAF
+
+TABULKA
+
+### Pilíř 6: Zdraví a odolnost obyvatel 
+8 projektů za 15 miliard korun
+
+GRAF
+
+TABULKA
