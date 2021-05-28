@@ -25,7 +25,12 @@ GRAF PENÍZE × PILÍŘ + ROK
 ### Pilíř 1: Digitální transformace  
 41 projektů za 28,2 miliardy korun
 
-GRAF
+<wide>
+<figure class="vis-static">
+<img loading="lazy" src="https://data.irozhlas.cz/plan-obnovy/grafy/plan-kap-1-des.svg" class="desktop">
+<img loading="lazy" src="https://data.irozhlas.cz/plan-obnovy/grafy/plan-kap-1-mob.svg" class="mobile">
+</figure>
+</wide>
 
 TABULKA
 

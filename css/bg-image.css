@@ -1,0 +1,11 @@
+@media (min-width: 601px) {
+  .b-data__bg {
+    background-image: url("https://data.irozhlas.cz/plan-obnovy/grafy/plan-kap-1-des.svg");
+  }
+}
+
+@media (max-width: 600px) {
+  .b-data__bg {
+    background-image: url("https://data.irozhlas.cz/plan-obnovy/grafy/plan-kap-1-des.svg");
+  }
+}
