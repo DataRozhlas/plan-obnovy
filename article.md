@@ -8,6 +8,13 @@ options: [noheader] #wide, noheader (, nopic)
 ---
 VIZUALIZACE CELEK
 
+<wide>
+<figure class="vis-static">
+<img loading="lazy" src="https://data.irozhlas.cz/plan-obnovy/grafy/plan-obnovy-des.svg" class="desktop">
+<img loading="lazy" src="https://data.irozhlas.cz/plan-obnovy/grafy/plan-obnovy-mob.svg" class="mobile">
+</figure>
+</wide>
+
 Devět měsíců se na českých ministerstvech rodil _[národní plán obnovy](https://www.planobnovycr.cz/)_: dokument, který popisuje, jak si Češi rozdělí necelých 200 miliard z Evropské unie. Po jednání s Evropskou komisí v polovině května je vláda přesvědčena, že jde o finální verzi, kterou unie posvětí. [Navzdory námitkám ekologů](https://www.irozhlas.cz/zpravy-domov/200-miliard-v-ohrozeni-narodni-plan-obnovy-je-nedotazeny-eu-ho-nemusi-schvalit_2105240010_ban), že povinných 37 procent peněz pro klimatické projekty český plán splňuje jen naoko, a [řadě](https://www.irozhlas.cz/komentare/cesko-evropska-unie-narodni-plan-obnovy_2105031840_miz) [dalších](https://www.irozhlas.cz/ekonomika/narodni-plan-obnovy-2021-mpo-vlada-ekologie_2105181957_ako) [kritických](https://www.irozhlas.cz/komentare/komentar-lidy-rakusanove-unijni-plan-obnovy_2005291343_ada) [analýz](https://nazory.aktualne.cz/komentare/narodni-plan-marnosti-chteli-jsme-modernizovat-ale-dopadlo-t/r~03f011c4b73211eb9f15ac1f6b220ee8/).
 
 Cílem evropského balíku je nastartovat pandemií poškozené ekonomiky členských zemí. Podpořit chce hlavně projekty snižování klimatické zátěže a adaptace na klimatické změny, ty musejí získat zmíněných 37 procent evropských peněz. Další prioritou je digitální ekonomika s kvótou 20 procent celkové částky.
@@ -18,7 +25,12 @@ Počty uváděných projektů se mohou lišit od oficiálních zdrojů. Důvodů
 
 Před detailním pohledem na jednotlivé pilíře se ještě podívejte, kdy mají peníze do které kapitoly přitéct.
 
-GRAF PENÍZE × PILÍŘ + ROK 
+<wide>
+<figure class="vis-static">
+<img loading="lazy" src="https://data.irozhlas.cz/plan-obnovy/grafy/plan-finance-po-letech-des.svg" class="desktop">
+<img loading="lazy" src="https://data.irozhlas.cz/plan-obnovy/grafy/plan-finance-po-letech-mob.svg" class="mobile">
+</figure>
+</wide>
 
 ## Pilíře národního plánu obnovy 
 
@@ -37,34 +49,62 @@ TABULKA
 ### Pilíř 2: Fyzická infrastruktura a zelená tranzice 
 38 projektů za 90,7 miliardy korun
 
-GRAF
+<wide>
+<figure class="vis-static">
+<img loading="lazy" src="https://data.irozhlas.cz/plan-obnovy/grafy/plan-kap-2-des.svg" class="desktop">
+<img loading="lazy" src="https://data.irozhlas.cz/plan-obnovy/grafy/plan-kap-2-mob.svg" class="mobile">
+</figure>
+</wide>
 
 TABULKA
 
 ### Pilíř 3: Vzdělávání a trh práce
 11 projektů za 41 miliard korun
 
-GRAF
+<wide>
+<figure class="vis-static">
+<img loading="lazy" src="https://data.irozhlas.cz/plan-obnovy/grafy/plan-kap-3-des.svg" class="desktop">
+<img loading="lazy" src="https://data.irozhlas.cz/plan-obnovy/grafy/plan-kap-3-mob.svg" class="mobile">
+</figure>
+</wide>
 
 TABULKA
 
 ### Pilíř 4: Instituce a regulace a podpora podnikání v reakci na COVID-19 
 17 projektů za 11,7 miliard korun
 
-GRAF
+<wide>
+<figure class="vis-static">
+<img loading="lazy" src="https://data.irozhlas.cz/plan-obnovy/grafy/plan-kap-4-des.svg" class="desktop">
+<img loading="lazy" src="https://data.irozhlas.cz/plan-obnovy/grafy/plan-kap-4-mob.svg" class="mobile">
+</figure>
+</wide>
+
 
 TABULKA
 
 ### Pilíř 5: Výzkum, vývoj a inovace 
 8 projektů za 13,2 miliardy korun
 
-GRAF
+<wide>
+<figure class="vis-static">
+<img loading="lazy" src="https://data.irozhlas.cz/plan-obnovy/grafy/plan-kap-5-des.svg" class="desktop">
+<img loading="lazy" src="https://data.irozhlas.cz/plan-obnovy/grafy/plan-kap-5-mob.svg" class="mobile">
+</figure>
+</wide>
+
 
 TABULKA
 
 ### Pilíř 6: Zdraví a odolnost obyvatel 
 8 projektů za 15 miliard korun
 
-GRAF
+<wide>
+<figure class="vis-static">
+<img loading="lazy" src="https://data.irozhlas.cz/plan-obnovy/grafy/plan-kap-6-des.svg" class="desktop">
+<img loading="lazy" src="https://data.irozhlas.cz/plan-obnovy/grafy/plan-kap-6-mob.svg" class="mobile">
+</figure>
+</wide>
+
 
 TABULKA
