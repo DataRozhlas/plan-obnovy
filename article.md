@@ -1,12 +1,13 @@
-title: "Data: 11,5 miliardy na železnice i komise pro koordinaci inovací za 9 milionů. Jaké projekty skrývá plán obnovy?"
-perex: "Téměř 200 evropských miliard, které mají do Česka přitéct v následujících pěti letech, vláda rozepsala do 123 projektů. Datoví novináři prošli jeden po druhém a pokusili se z veřejných dokumentů popsat, na co peníze skutečně půjdou."
-coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
-coverimg_note: "Foto <a href='https://ctk.cz'>ČTK</a>"
+title: "Národní plán obnovy přehledně: 91 miliard na železnici a zelené stavby, 28 miliard na digitální transformaci"
+perex: "Do roku 2026 bude Česko čerpat téměř 200 miliard korun z evropského fondu pro obnovu a modernizaci ekonomiky. Vláda žádá EU o schválení 123 projektů. Co všechno se v jejich seznamu skrývá a jak můžou proměnit českou infrastrukturu, veřejnou správu a podnikatelské prostředí?"
+coverimg: https://data.irozhlas.cz/plan-obnovy/grafy/plan-kap-2-des.svg
+coverimg_note: "Vizualizace: Kristína Zákopčanová"
 styles: []
-libraries: [] #jquery, d3, highcharts, datatables
-options: [noheader] #wide, noheader (, nopic)
+libraries: [jquery, datatables] 
+options: [] #wide, noheader (, nopic)
 ---
-VIZUALIZACE CELEK
+
+<link rel="stylesheet" href="https://cdn.datatables.net/1.10.23/css/jquery.dataTables.css">
 
 <wide>
 <figure class="vis-static">
@@ -15,15 +16,17 @@ VIZUALIZACE CELEK
 </figure>
 </wide>
 
-Devět měsíců se na českých ministerstvech rodil _[národní plán obnovy](https://www.planobnovycr.cz/)_: dokument, který popisuje, jak si Češi rozdělí necelých 200 miliard z Evropské unie. Po jednání s Evropskou komisí v polovině května je vláda přesvědčena, že jde o finální verzi, kterou unie posvětí. [Navzdory námitkám ekologů](https://www.irozhlas.cz/zpravy-domov/200-miliard-v-ohrozeni-narodni-plan-obnovy-je-nedotazeny-eu-ho-nemusi-schvalit_2105240010_ban), že povinných 37 procent peněz pro klimatické projekty český plán splňuje jen naoko, a [řadě](https://www.irozhlas.cz/komentare/cesko-evropska-unie-narodni-plan-obnovy_2105031840_miz) [dalších](https://www.irozhlas.cz/ekonomika/narodni-plan-obnovy-2021-mpo-vlada-ekologie_2105181957_ako) [kritických](https://www.irozhlas.cz/komentare/komentar-lidy-rakusanove-unijni-plan-obnovy_2005291343_ada) [analýz](https://nazory.aktualne.cz/komentare/narodni-plan-marnosti-chteli-jsme-modernizovat-ale-dopadlo-t/r~03f011c4b73211eb9f15ac1f6b220ee8/).
+Devět měsíců se na českých ministerstvech rodil _[Národní plán obnovy](https://www.planobnovycr.cz/)_: dokument, který popisuje, jak se v Česku rozdělí 199,8 miliard korun z Evropské unie. Po jednání s Evropskou komisí v polovině května je vláda přesvědčena, že jde o finální verzi, kterou unie posvětí. [Navzdory námitkám ekologů](https://www.irozhlas.cz/zpravy-domov/200-miliard-v-ohrozeni-narodni-plan-obnovy-je-nedotazeny-eu-ho-nemusi-schvalit_2105240010_ban), že povinných 37 procent peněz pro klimatické projekty český plán splňuje jen naoko, a řadě dalších kritických analýz.
 
-Cílem evropského balíku je nastartovat pandemií poškozené ekonomiky členských zemí. Podpořit chce hlavně projekty snižování klimatické zátěže a adaptace na klimatické změny, ty musejí získat zmíněných 37 procent evropských peněz. Další prioritou je digitální ekonomika s kvótou 20 procent celkové částky.
+Cílem balíku je nastartovat pandemií poškozené ekonomiky členských zemí. Unie chce podpořit hlavně projekty zaměřené na snižování produkce skleníkových plynů a na adaptaci na klimatické změny. Ty musejí v jednotlivých členských státech získat zmíněných 37 procent evropských peněz. Další prioritou je digitální ekonomika s kvótou 20 procent celkové částky.
 
-Datoví novináři serveru iROZHLAS.cz ve [veřejně dostupných zdrojích]() prošli všech 123 projektů, rozdělených do šesti tematických pilířů, aby je mohli lépe popsat. V následujícím textu najdete pro každý z pilířů grafické shrnutí se zvýrazněním nejdražších projektů a podrobný seznam projektů včetně „lidského“ popisu, co se pod často obecným či kryptickým názvem skrývá.
+Datoví novináři serveru iROZHLAS.cz prošli ve spolupráci s Asociací pro mezinárodní otázky ve veřejně dostupných zdrojích všech 123 českých projektů, rozdělených do šesti tematických pilířů. Strukturu všech šesti kapitol přibližují vizualizace, ve kterých zvýraznili nejdražší projekty. Grafy doplňuje podrobný seznam projektů včetně vysvětlení, co se pod jejich často obecnými či kryptickými názvy skrývá.
 
-Počty uváděných projektů se mohou lišit od oficiálních zdrojů. Důvodů je několik: část veřejných dokumentů obsahuje projekty s nulovou částkou, jiné nikoliv. Různé dokumenty také projekty spojují či rozdělují podle jiných pravidel. Třetím zdrojem nepřesností je fakt, že vládní dokumenty si na mnoha místech vzájemně odporují; typicky se mezi dokumenty liší počet žadatelů o dotace, kteří mají být z projektu podpořeni. Částka, alokovaná pro celý balík – 199,8 miliardy – i částky pro každý pilíř se nicméně napříč dokumenty i v naší analýze shodují. 
+Počty zde uváděných projektů se mohou od oficiálních zdrojů lišit. Důvodů je několik: část veřejných dokumentů obsahuje projekty s nulovým příspěvkem z evropského fondu, jiné nikoliv. Různé dokumenty také projekty spojují či rozdělují podle jiných pravidel. Třetím důvodem je fakt, že vládní dokumenty si na mnoha místech vzájemně odporují; typicky se mezi jednotlivými materiály liší počet žadatelů o dotace, kteří mají být z projektu podpořeni. 
 
-Před detailním pohledem na jednotlivé pilíře se ještě podívejte, kdy mají peníze do které kapitoly přitéct.
+Částka, alokovaná pro celý balík – 199,8 miliardy – i částky pro každý pilíř se nicméně napříč dokumenty i v naší analýze shodují. 
+
+Národní plán obnovy nemá fungovat jako jednorázová injekce do ekonomiky, projekty poběží do roku 2026, nejvíc peněz obdrží napřesrok.
 
 <wide>
 <figure class="vis-static">
@@ -32,10 +35,17 @@ Před detailním pohledem na jednotlivé pilíře se ještě podívejte, kdy maj
 </figure>
 </wide>
 
-## Pilíře národního plánu obnovy 
+## Pilíře plánu obnovy 
 
-### Pilíř 1: Digitální transformace  
-41 projektů za 28,2 miliardy korun
+U každého pilíře najdete 
+- vizualizaci se zvýrazněnými největšími projekty
+- tabulku s podrobnějším popisem všech projektů včetně požadované částky, zodpovědné instituce a příspěvku ke klimatické/digitální kvótě 
+
+Tabulky jsou seřazeny podle alokované částky. Pomlčka ve sloupci s garantem znamená, že z veřejných dokumentů nebylo zřejmé, která instituce je za projekt zodpovědná. 
+
+Některé projekty se také mohou skládat z více částí s různým příspěvkem ke klimatické nebo digitální kvótě, v takovém případě oddělujeme příspěvky lomítkem, například _40/100_. V ojedinělých případech, spojených obvykle se stavbou železniční infrastruktury, dokumenty klimatický příspěvek neuvádějí. Také u nich najdete pomlčku.
+
+U menších displejů zobrazíte skryté sloupce ikonou se zeleným plus.
 
 <wide>
 <figure class="vis-static">
@@ -44,10 +54,7 @@ Před detailním pohledem na jednotlivé pilíře se ještě podívejte, kdy maj
 </figure>
 </wide>
 
-TABULKA
-
-### Pilíř 2: Fyzická infrastruktura a zelená tranzice 
-38 projektů za 90,7 miliardy korun
+<wide><div class="embed" id="tab1id" style="font-size: 80%; padding-bottom: 50px;"><table id="tab1" class="display" style="width: 100%;"></table></div></wide>
 
 <wide>
 <figure class="vis-static">
@@ -56,10 +63,7 @@ TABULKA
 </figure>
 </wide>
 
-TABULKA
-
-### Pilíř 3: Vzdělávání a trh práce
-11 projektů za 41 miliard korun
+<wide><div class="embed" id="tab2id" style="font-size: 80%; padding-bottom: 50px;"><table id="tab2" class="display" style="width: 100%;"></table></div></wide>
 
 <wide>
 <figure class="vis-static">
@@ -68,10 +72,7 @@ TABULKA
 </figure>
 </wide>
 
-TABULKA
-
-### Pilíř 4: Instituce a regulace a podpora podnikání v reakci na COVID-19 
-17 projektů za 11,7 miliard korun
+<wide><div class="embed" id="tab3id" style="font-size: 80%; padding-bottom: 50px;"><table id="tab3" class="display" style="width: 100%;"></table></div></wide>
 
 <wide>
 <figure class="vis-static">
@@ -80,11 +81,7 @@ TABULKA
 </figure>
 </wide>
 
-
-TABULKA
-
-### Pilíř 5: Výzkum, vývoj a inovace 
-8 projektů za 13,2 miliardy korun
+<wide><div class="embed" id="tab4id" style="font-size: 80%; padding-bottom: 50px;"><table id="tab4" class="display" style="width: 100%;"></table></div></wide>
 
 <wide>
 <figure class="vis-static">
@@ -93,11 +90,7 @@ TABULKA
 </figure>
 </wide>
 
-
-TABULKA
-
-### Pilíř 6: Zdraví a odolnost obyvatel 
-8 projektů za 15 miliard korun
+<wide><div class="embed" id="tab5id" style="font-size: 80%; padding-bottom: 50px;"><table id="tab5" class="display" style="width: 100%;"></table></div></wide>
 
 <wide>
 <figure class="vis-static">
@@ -106,5 +99,4 @@ TABULKA
 </figure>
 </wide>
 
-
-TABULKA
+<wide><div class="embed" id="tab6id" style="font-size: 80%; padding-bottom: 0px;"><table id="tab6" class="display" style="width: 100%;"></table></div></wide>
